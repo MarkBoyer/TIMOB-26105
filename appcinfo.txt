@@ -1,0 +1,493 @@
+Appcelerator Command-Line Interface, version 7.0.4
+Copyright (c) 2014-2018, Appcelerator, Inc.  All Rights Reserved.
+
+     
+     [1mOperating System[22m
+  Name                        = [35mMac OS X[39m
+  Version                     = [35m10.13.5[39m
+  Architecture                = [35m64bit[39m
+  # CPUs                      = [35m8[39m
+  Memory                      = [35m16.0GB[39m
+
+[1mNode.js[22m
+  Node.js Version             = [35m8.11.2[39m
+  npm Version                 = [35m6.1.0[39m
+
+[1mAppcelerator CLI
+  Installer                   = 4.2.13
+  Core Package                = 7.0.4
+
+Titanium CLI[22m
+  CLI Version                 = [35m5.1.1[39m
+  node-appc Version           = [35m0.2.44[39m
+
+[1mTitanium SDKs[22m
+  [36m7.2.0.GA[39m
+    Version                   = [35m7.2.0[39m
+    Install Location          = [35m/Users/markboyer/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA[39m
+    Platforms                 = [35miphone, android[39m
+    git Hash                  = [35mecae6740fe[39m
+    git Timestamp             = [35m6/7/2018 12:25[39m
+    node-appc Version         = [35m0.2.45[39m
+  [36m7.1.1.GA[39m
+    Version                   = [35m7.1.1[39m
+    Install Location          = [35m/Users/markboyer/Library/Application Support/Titanium/mobilesdk/osx/7.1.1.GA[39m
+    Platforms                 = [35miphone, android[39m
+    git Hash                  = [35m1708b2d[39m
+    git Timestamp             = [35m4/19/2018 18:20[39m
+    node-appc Version         = [35m0.2.45[39m
+  [36m7.1.0.GA[39m
+    Version                   = [35m7.1.0[39m
+    Install Location          = [35m/Users/markboyer/Library/Application Support/Titanium/mobilesdk/osx/7.1.0.GA[39m
+    Platforms                 = [35miphone, android[39m
+    git Hash                  = [35mdf92fbf[39m
+    git Timestamp             = [35m3/14/2018 20:46[39m
+    node-appc Version         = [35m0.2.43[39m
+  [36m7.0.2.GA[39m
+    Version                   = [35m7.0.2[39m
+    Install Location          = [35m/Users/markboyer/Library/Application Support/Titanium/mobilesdk/osx/7.0.2.GA[39m
+    Platforms                 = [35miphone, android[39m
+    git Hash                  = [35m5ef0c56[39m
+    git Timestamp             = [35m2/9/2018 19:05[39m
+    node-appc Version         = [35m0.2.43[39m
+ 
+[1mMac OS X[22m
+  Command Line Tools          = [35minstalled[39m
+
+[1mIntel® Hardware Accelerated Execution Manager (HAXM)[22m
+  Installed                   = [35myes[39m
+  Memory Limit                = [35m8 GB[39m
+
+[1mJava Development Kit[22m
+  Version                     = [35m1.8.0_101[39m
+  Java Home                   = [35m/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home[39m
+
+[1mGenymotion[22m
+  Path                        = [35m/Applications/Genymotion.app/Contents/MacOS[39m
+  Genymotion Executable       = [35m/Applications/Genymotion.app/Contents/MacOS/genymotion[39m
+  Genymotion Player           = [35m/Applications/Genymotion.app/Contents/MacOS/player.app/Contents/MacOS/player[39m
+  Home                        = [35m/Users/markboyer/.Genymobile/Genymotion[39m
+
+[1mVirtualBox[22m
+  Executable                  = [35m/usr/local/bin/VBoxManage[39m
+  Version                     = [35m5.1.22r115126[39m
+
+[1mAndroid SDK[22m
+  Android Executable          = [35mnot found[39m
+  ADB Executable              = [35m/Users/markboyer/Library/android-sdk-macosx/platform-tools/adb[39m
+  SDK Path                    = [35m/Users/markboyer/Library/android-sdk-macosx[39m
+
+[1mAndroid NDK[22m
+0NDK Path                    = [35m/usr/local/share/android-ndk[39m
+  NDK Version                 = [35m17.0.4754217[39m
+
+[1mAndroid Platforms[22m
+  [36m1) android-23[39m
+    Name                      = [35mAndroid 6.0[39m
+    API Level                 = [35m23[39m
+    Revision                  = [35m3[39m
+    Skins                     = [35mHVGA, QVGA, WQVGA400, WQVGA432, WSVGA, WVGA800, WVGA854, WXGA720, WXGA800, WXGA800-7in, AndroidWearRound, AndroidWearRound360x360, AndroidWearRound400x400, AndroidWearRound480x480, AndroidWearRoundChin320x290, AndroidWearRoundChin320x300, AndroidWearRoundChin360x325, AndroidWearRoundChin360x326, AndroidWearRoundChin360x330, AndroidWearSquare, AndroidWearSquare240x240, AndroidWearSquare320x320[39m
+    ABIs                      = [35marmeabi-v7a, x86, x86_64[39m
+    Path                      = [35m/Users/markboyer/Library/android-sdk-macosx/platforms/android-23[39m
+  [36m2) android-24[39m
+    Name                      = [35mAndroid 7.0[39m
+    API Level                 = [35m24[39m
+    Revision                  = [35m2[39m
+    Skins                     = [35mHVGA, QVGA, WQVGA400, WQVGA432, WSVGA, WVGA800, WVGA854, WXGA720, WXGA800, WXGA800-7in[39m
+    ABIs                      = [35mx86, arm64-v8a, armeabi-v7a, x86_64[39m
+    Path                      = [35m/Users/markboyer/Library/android-sdk-macosx/platforms/android-24[39m
+  [36m3) android-25[39m
+    Name                      = [35mAndroid 7.1.1[39m
+    API Level                 = [35m25[39m
+    Revision                  = [35m2[39m
+    Skins                     = [35mHVGA, QVGA, WQVGA400, WQVGA432, WSVGA, WVGA800, WVGA854, WXGA720, WXGA800, WXGA800-7in[39m
+    ABIs                      = [35mx86, x86_64[39m
+    Path                      = [35m/Users/markboyer/Library/android-sdk-macosx/platforms/android-25[39m
+
+[1mAndroid Add-Ons[22m
+  [36m4) Google Inc.:Google APIs:23[39m
+    Name                      = [35mGoogle APIs (Android 6.0 (API level 23))[39m
+    Vendor                    = [35mGoogle Inc.[39m
+    Revision                  = [35m1[39m
+    Description               = [35mAndroid + Google APIs[39m
+    Skins                     = [35mHVGA, QVGA, WQVGA400, WQVGA432, WSVGA, WVGA800, WVGA854, WXGA720, WXGA800, WXGA800-7in, AndroidWearRound, AndroidWearRound360x360, AndroidWearRound400x400, AndroidWearRound480x480, AndroidWearRoundChin320x290, AndroidWearRoundChin320x300, AndroidWearRoundChin360x325, AndroidWearRoundChin360x326, AndroidWearRoundChin360x330, AndroidWearSquare, AndroidWearSquare240x240, AndroidWearSquare320x320[39m
+    ABIs                      = [35marmeabi-v7a, x86, x86_64[39m
+    Path                      = [35m/Users/markboyer/Library/android-sdk-macosx/add-ons/addon-google_apis-google-23[39m
+    Libraries                 = [35mnone[39m
+
+[1mAndroid Emulators[22m
+  [36mAndroid_ARMv7a[39m
+    ID                        = [35mAndroid_ARMv7a[39m
+    SDK Version               = [35mAndroid 6.0 (API level 23)[39m
+    ABI                       = [35marmeabi-v7a[39m
+    Skin                      = [35m768x1280[39m
+    Path                      = [35m/Users/markboyer/.android/avd/Android_ARMv7a.avd[39m
+    SD Card                   = [35m/Users/markboyer/.android/avd/Android_ARMv7a.avd/sdcard.img[39m
+    Google APIs               = [35myes[39m
+  [36mAndroid_Accelerated_x86[39m
+    ID                        = [35mAndroid_Accelerated_x86[39m
+    SDK Version               = [35mAndroid 6.0 (API level 23)[39m
+    ABI                       = [35mx86[39m
+    Skin                      = [35m768x1280[39m
+    Path                      = [35m/Users/markboyer/.android/avd/Android_Accelerated_x86.avd[39m
+    SD Card                   = [35m/Users/markboyer/.android/avd/Android_Accelerated_x86.avd/sdcard.img[39m
+    Google APIs               = [35myes[39m
+  [36mNexus 6P API 25[39m
+    ID                        = [35mNexus_6P_API_25[39m
+    SDK Version               = [35mAndroid 7.1.1 (API level 25)[39m
+    ABI                       = [35mx86[39m
+    Skin                      = [35mnexus_6p[39m
+    Path                      = [35m/Users/markboyer/.android/avd/Nexus_6P_API_25.avd[39m
+    SD Card                   = [35m/Users/markboyer/.android/avd/Nexus_6P_API_25.avd/sdcard.img[39m
+    Google APIs               = [35myes[39m
+  [36mPixel XL API 26[39m
+    ID                        = [35mPixel_XL_API_26[39m
+    SDK Version               = [35mnot installed[39m
+    ABI                       = [35mx86[39m
+    Skin                      = [35mpixel_xl[39m
+    Path                      = [35m/Users/markboyer/.android/avd/Pixel_XL_API_26.avd[39m
+    SD Card                   = [35m/Users/markboyer/.android/avd/Pixel_XL_API_26.avd/sdcard.img[39m
+    Google APIs               = [35myes[39m
+  [36mtitanium_1_WVGA800[39m
+    ID                        = [35mtitanium_1_WVGA800[39m
+    SDK Version               = [35mnot installed[39m
+    ABI                       = [35marmeabi-v7a[39m
+    Skin                      = [35mwvga800[39m
+    Path                      = [35m/Users/markboyer/.android/avd/titanium_1_WVGA800.avd[39m
+    SD Card                   = [35m/Users/markboyer/.android/avd/titanium_1_WVGA800.avd/sdcard.img[39m
+    Google APIs               = [35mno[39m
+
+[1mGenymotion Emulators[22m
+  [36mGoogle Nexus 5 - 5.1.0 - API 22 - 1080x1920[39m
+0  ID                        = [35mGoogle Nexus 5 - 5.1.0 - API 22 - 1080x1920[39m
+    SDK Version               = [35m5.1.0[39m
+    ABI                       = [35mx86[39m
+    Genymotion Version        = [35m2.6.0[39m
+    Display                   = [35m1080x1920-16[39m
+    DPI                       = [35m480[39m
+    OpenGL Acceleration       = [35myes[39m
+    Google APIs               = [35munknown, emulator not running[39m
+  [36mPREVIEW - Google Nexus 5X - 6.0.0 - API 23 - 1080x1920[39m
+0  ID                        = [35mPREVIEW - Google Nexus 5X - 6.0.0 - API 23 - 1080x1920[39m
+    SDK Version               = [35m6.0.0[39m
+    ABI                       = [35mx86[39m
+    Genymotion Version        = [35m2.6.0[39m
+    Display                   = [35m1080x1920-16[39m
+    DPI                       = [35m420[39m
+    OpenGL Acceleration       = [35myes[39m
+    Google APIs               = [35munknown, emulator not running[39m
+  [36mGoogle Nexus 6 - 5.1.0 - API 22 - 1440x2560 - Games[39m
+0  ID                        = [35mGoogle Nexus 6 - 5.1.0 - API 22 - 1440x2560 - Games[39m
+    SDK Version               = [35m5.1.0[39m
+    ABI                       = [35mx86[39m
+    Genymotion Version        = [35m2.7.2[39m
+    Display                   = [35m1440x2560-16[39m
+    DPI                       = [35m560[39m
+    OpenGL Acceleration       = [35myes[39m
+    Google APIs               = [35munknown, emulator not running[39m
+  [36mSamsung Galaxy S6 - 5.1.0 - API 22 - 1440x2560[39m
+0  ID                        = [35mSamsung Galaxy S6 - 5.1.0 - API 22 - 1440x2560[39m
+    SDK Version               = [35m5.1.0[39m
+    ABI                       = [35mx86[39m
+    Genymotion Version        = [35m2.8.0[39m
+    Display                   = [35m1440x2560-16[39m
+    DPI                       = [35m640[39m
+    OpenGL Acceleration       = [35myes[39m
+    Google APIs               = [35munknown, emulator not running[39m
+  [36mSamsung Galaxy S6 - 6.0.0 - API 23 - 1440x2560[39m
+0  ID                        = [35mSamsung Galaxy S6 - 6.0.0 - API 23 - 1440x2560[39m
+    SDK Version               = [35m6.0.0[39m
+    ABI                       = [35mx86[39m
+    Genymotion Version        = [35m2.9.0[39m
+    Display                   = [35m1440x2560-16[39m
+    DPI                       = [35m640[39m
+    OpenGL Acceleration       = [35myes[39m
+    Google APIs               = [35munknown, emulator not running[39m
+
+[1mConnected Android Devices[22m
+  [90mNone[39m
+
+[1mXcode[22m
+  [36m9.4.1 (build 9F2000) - Xcode default[39m
+    Install Location          = [35m/Applications/Xcode.app/Contents/Developer[39m
+    iOS SDKs                  = [35m11.4[39m
+    iOS Simulators            = [35m11.4[39m
+    Watch SDKs                = [35m4.3[39m
+    Watch Simulators          = [35m4.3, 4.2[39m
+    Supported by TiSDK 7.2.0.GA = [35myes[39m
+    EULA Accepted             = [35myes[39m
+    Teams                     = [35mnone[39m
+ 
+[1miOS Keychains[22m
+  login.keychain-db           = [35m/Users/markboyer/Library/Keychains/login.keychain-db[39m
+  System.keychain             = [35m/Library/Keychains/System.keychain[39m
+
+[1miOS Development Certificates[22m
+[90m/Users/markboyer/Library/Keychains/login.keychain-db[39m
+  [36mMark Boyer (CGN3386EMG)[39m
+    Not valid before          = [35m6/8/2018 7:59 PM[39m
+    Not valid after           = [35m6/8/2019 7:59 PM[39m
+
+[1miOS App Store Distribution Certificates[22m
+[90m/Users/markboyer/Library/Keychains/login.keychain-db[39m
+  [36mAhern Rentals, Inc[39m
+    Not valid before          = [35m5/27/2016 2:03 PM[39m
+    Not valid after           = [35m5/27/2019 2:03 PM[39m
+  [36mMark Boyer (5V8J4C8FFW)[39m
+    Not valid before          = [35m7/10/2017 7:24 PM[39m
+    Not valid after           = [35m7/10/2018 7:24 PM[39m
+  [36mMark Boyer (5V8J4C8FFW)[39m
+    Not valid before          = [35m6/11/2018 7:17 PM[39m
+    Not valid after           = [35m6/11/2019 7:17 PM[39m
+
+[1mApple WWDR Certificate[22m
+  Apple WWDR                  = [35minstalled[39m
+
+[1mDevelopment iOS Provisioning Profiles[22m
+  [36miOS Team Provisioning Profile: *[39m
+    UUID                      = [35m70ead75a-6419-4b8a-91b7-7f0fd2b1f9f0[39m
+    App Prefix                = [35m5V8J4C8FFW[39m
+    App Id                    = [35m*[39m
+    Date Created              = [35m8/4/2017 6:57 PM[39m
+    Date Expired              = [35m8/4/2018 6:57 PM[39m
+    Managed                   = [31mYes and is NOT compatible with Titanium[39m
+  [36mMB_20160607B[39m
+    UUID                      = [35m76c1602b-ccb7-4e64-9dd5-fd1a2cd5ae81[39m
+    App Prefix                = [35m5V8J4C8FFW[39m
+    App Id                    = [35m*[39m
+    Date Created              = [35m2/6/2018 11:19 AM[39m
+    Date Expired              = [35m2/6/2019 11:19 AM[39m
+    Managed                   = [35mNo[39m
+ 
+[1mApp Store Distribution iOS Provisioning Profiles[22m
+  [36miOS App Store Distribution (mab)[39m
+    UUID                      = [35m9788c633-8466-4ec5-beac-ae2089a6b5e8[39m
+    App Prefix                = [35m5V8J4C8FFW[39m
+    App Id                    = [35m*[39m
+    Date Created              = [35m6/8/2018 8:11 PM[39m
+    Date Expired              = [35m7/10/2018 7:24 PM[39m
+    Managed                   = [35mNo[39m
+ 
+[1mAd Hoc iOS Provisioning Profiles[22m
+  [36miInformant AdHoc[39m
+    UUID                      = [35m1fcd6bc8-3c2c-4507-b8c9-2512fa7e51fe[39m
+    App Prefix                = [35m5V8J4C8FFW[39m
+    App Id                    = [35mcom.mbs.iinformant[39m
+    Date Created              = [35m7/10/2017 7:35 PM[39m
+    Date Expired              = [35m7/10/2018 7:24 PM[39m
+    Managed                   = [35mNo[39m
+ 
+[1mEnterprise Ad Hoc iOS Provisioning Profiles[22m
+  [90mNone[39m
+
+[1miOS Simulators[22m
+[90m11.3[39m
+  [36miPad Air iOS 11.4[39m (iPad Air)[90m (ipad)[39m
+    UDID                      = [35m416D4630-F00F-45FF-B35E-FC73E0136FDD[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Air iOS 11.3[39m (iPad Air)[90m (ipad)[39m
+    UDID                      = [35m4D6D445B-648A-4C08-B565-3523BE318A5D[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Air 2 iOS 11.3[39m (iPad Air 2)[90m (ipad)[39m
+    UDID                      = [35m02CC46CB-6E47-4C8F-A7EE-31411E54ECE8[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Air 2 iOS 11.4[39m (iPad Air 2)[90m (ipad)[39m
+    UDID                      = [35mA238AA01-B0C8-4F17-88AE-CB9C8A263FF2[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad (5th generation) iOS 11.4[39m (iPad (5th generation))[90m (ipad)[39m
+    UDID                      = [35m650E1737-4497-4E0A-8C6D-036C2538A78A[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad (5th generation) iOS 11.3[39m (iPad (5th generation))[90m (ipad)[39m
+    UDID                      = [35m1639949E-A0C4-4F85-B92E-BF89760C6A8B[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (9.7-inch) iOS 11.4[39m (iPad Pro (9.7-inch))[90m (ipad)[39m
+    UDID                      = [35m4A47B3AB-EE1E-4635-BA60-F4DDEE4D796D[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (9.7-inch) iOS 11.3[39m (iPad Pro (9.7-inch))[90m (ipad)[39m
+    UDID                      = [35m23A82B97-A3CF-4848-9E38-26865CC547B0[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (12.9-inch) iOS 11.4[39m (iPad Pro (12.9-inch))[90m (ipad)[39m
+    UDID                      = [35m1F293548-E4A4-402A-8ABD-99446E89AED2[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (12.9-inch) iOS 11.3[39m (iPad Pro (12.9-inch))[90m (ipad)[39m
+    UDID                      = [35m011F99A8-CF26-4550-8071-223B0AA76C25[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (12.9-inch) (2nd generation) iOS 11.3[39m (iPad Pro (12.9-inch) (2nd generation))[90m (ipad)[39m
+    UDID                      = [35mE16570EF-D524-452C-B24D-09A6DE7537F7[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (12.9-inch) (2nd generation) iOS 11.4[39m (iPad Pro (12.9-inch) (2nd generation))[90m (ipad)[39m
+    UDID                      = [35m09FF872C-A62A-4C91-A0D3-B4F1D5EFD5CE[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (10.5-inch) iOS 11.4[39m (iPad Pro (10.5-inch))[90m (ipad)[39m
+    UDID                      = [35mF562067A-A2A8-4159-9036-EB35086E59E6[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (10.5-inch) iOS 11.3[39m (iPad Pro (10.5-inch))[90m (ipad)[39m
+    UDID                      = [35mDCC4A049-F6CF-49FD-B76B-59A21BF71DEA[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad (6th generation) iOS 11.4[39m (iPad (6th generation))[90m (ipad)[39m
+    UDID                      = [35m51D844B3-57C4-47E5-8D96-780D70B9F8F2[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad (6th generation) iOS 11.3[39m (iPad (6th generation))[90m (ipad)[39m
+    UDID                      = [35m4CFB1F99-9ABA-4093-B820-6F230B2104BD[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPhone X iOS 11.3[39m (iPhone X)[90m (iphone)[39m
+    UDID                      = [35m50EEB008-B8E8-421E-9121-4E12ECEB3E5A[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone X iOS 11.4[39m (iPhone X)[90m (iphone)[39m
+    UDID                      = [35mFD672EE2-A80D-4F60-AC93-88E8161297F5[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 8 iOS 11.3[39m (iPhone 8)[90m (iphone)[39m
+    UDID                      = [35m5AFDF63E-4895-43AD-8BEE-3DCE1140139F[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 8 iOS 11.4[39m (iPhone 8)[90m (iphone)[39m
+    UDID                      = [35m44D245AC-7299-4C16-9112-9798B8794E5F[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 8 Plus iOS 11.3[39m (iPhone 8 Plus)[90m (iphone)[39m
+    UDID                      = [35mCF107519-9CD0-45FB-817B-8A8526980013[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 8 Plus iOS 11.4[39m (iPhone 8 Plus)[90m (iphone)[39m
+    UDID                      = [35mC23FA210-20BE-4C54-B526-0089A49B0E02[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 5s iOS 11.3[39m (iPhone 5s)[90m (iphone)[39m
+    UDID                      = [35mE577F470-598B-467B-B041-F04CBBE50188[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 5s iOS 11.4[39m (iPhone 5s)[90m (iphone)[39m
+    UDID                      = [35mA99ECE49-BA6C-41B5-A094-80267839AE23[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6 Plus iOS 11.3[39m (iPhone 6 Plus)[90m (iphone)[39m
+    UDID                      = [35m9A2D7F5E-468E-48CF-9E7A-B56EE960135D[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6 Plus iOS 11.4[39m (iPhone 6 Plus)[90m (iphone)[39m
+    UDID                      = [35mD57B2D9E-665D-4CB9-9244-4177BA2CDD2C[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6 iOS 11.4[39m (iPhone 6)[90m (iphone)[39m
+    UDID                      = [35mA0B0F6BB-1670-40E4-B72E-672BD421D181[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6 iOS 11.3[39m (iPhone 6)[90m (iphone)[39m
+    UDID                      = [35m52BD8316-4D6B-4140-A011-84903F1DEB66[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6s iOS 11.4[39m (iPhone 6s)[90m (iphone)[39m
+    UDID                      = [35mE844B803-5AC4-43DB-8FB1-91124DA0C073[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6s iOS 11.3[39m (iPhone 6s)[90m (iphone)[39m
+    UDID                      = [35m39D5DF9E-9817-40DB-81FB-F063B6B6EDBA[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6s Plus iOS 11.3[39m (iPhone 6s Plus)[90m (iphone)[39m
+    UDID                      = [35mC39E0E30-2354-42A8-9779-3320B6D4217F[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6s Plus iOS 11.4[39m (iPhone 6s Plus)[90m (iphone)[39m
+    UDID                      = [35m1D9DD3A0-136A-439E-A21F-7D2AFB8213FB[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone SE iOS 11.4[39m (iPhone SE)[90m (iphone)[39m
+    UDID                      = [35m9EE8423A-E7EA-4224-A114-DC6224FD19FB[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone SE iOS 11.3[39m (iPhone SE)[90m (iphone)[39m
+    UDID                      = [35mA17ACDF6-D665-4600-BF28-60D356C1C78D[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 7 iOS 11.4[39m (iPhone 7)[90m (iphone)[39m
+    UDID                      = [35m200CE36F-6B79-494F-A11E-9873BCD933DB[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 7 iOS 11.3[39m (iPhone 7)[90m (iphone)[39m
+    UDID                      = [35mCB176912-D770-426A-91ED-A9742CCB4FB9[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 7 Plus iOS 11.3[39m (iPhone 7 Plus)[90m (iphone)[39m
+    UDID                      = [35mAC3C1834-E4B1-4579-8D0D-31FA4303F31D[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 7 Plus iOS 11.4[39m (iPhone 7 Plus)[90m (iphone)[39m
+    UDID                      = [35m2D826B82-062C-4B6B-9A6A-7D90FF8FC9DC[39m
+    Supports Watch Apps       = [35myes[39m
+
+[90m11.4[39m
+  [36miPad Air iOS 11.4[39m (iPad Air)[90m (ipad)[39m
+    UDID                      = [35m416D4630-F00F-45FF-B35E-FC73E0136FDD[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Air 2 iOS 11.4[39m (iPad Air 2)[90m (ipad)[39m
+    UDID                      = [35mA238AA01-B0C8-4F17-88AE-CB9C8A263FF2[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad (5th generation) iOS 11.4[39m (iPad (5th generation))[90m (ipad)[39m
+    UDID                      = [35m650E1737-4497-4E0A-8C6D-036C2538A78A[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (9.7-inch) iOS 11.4[39m (iPad Pro (9.7-inch))[90m (ipad)[39m
+    UDID                      = [35m4A47B3AB-EE1E-4635-BA60-F4DDEE4D796D[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (12.9-inch) iOS 11.4[39m (iPad Pro (12.9-inch))[90m (ipad)[39m
+    UDID                      = [35m1F293548-E4A4-402A-8ABD-99446E89AED2[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (12.9-inch) (2nd generation) iOS 11.4[39m (iPad Pro (12.9-inch) (2nd generation))[90m (ipad)[39m
+    UDID                      = [35m09FF872C-A62A-4C91-A0D3-B4F1D5EFD5CE[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad Pro (10.5-inch) iOS 11.4[39m (iPad Pro (10.5-inch))[90m (ipad)[39m
+    UDID                      = [35mF562067A-A2A8-4159-9036-EB35086E59E6[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPad (6th generation) iOS 11.4[39m (iPad (6th generation))[90m (ipad)[39m
+    UDID                      = [35m51D844B3-57C4-47E5-8D96-780D70B9F8F2[39m
+    Supports Watch Apps       = [35mno[39m
+  [36miPhone X iOS 11.4[39m (iPhone X)[90m (iphone)[39m
+    UDID                      = [35mFD672EE2-A80D-4F60-AC93-88E8161297F5[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 8 iOS 11.4[39m (iPhone 8)[90m (iphone)[39m
+    UDID                      = [35m44D245AC-7299-4C16-9112-9798B8794E5F[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 8 Plus iOS 11.4[39m (iPhone 8 Plus)[90m (iphone)[39m
+    UDID                      = [35mC23FA210-20BE-4C54-B526-0089A49B0E02[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 5s iOS 11.4[39m (iPhone 5s)[90m (iphone)[39m
+    UDID                      = [35mA99ECE49-BA6C-41B5-A094-80267839AE23[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6 Plus iOS 11.4[39m (iPhone 6 Plus)[90m (iphone)[39m
+    UDID                      = [35mD57B2D9E-665D-4CB9-9244-4177BA2CDD2C[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6 iOS 11.4[39m (iPhone 6)[90m (iphone)[39m
+    UDID                      = [35mA0B0F6BB-1670-40E4-B72E-672BD421D181[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6s iOS 11.4[39m (iPhone 6s)[90m (iphone)[39m
+    UDID                      = [35mE844B803-5AC4-43DB-8FB1-91124DA0C073[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 6s Plus iOS 11.4[39m (iPhone 6s Plus)[90m (iphone)[39m
+    UDID                      = [35m1D9DD3A0-136A-439E-A21F-7D2AFB8213FB[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone SE iOS 11.4[39m (iPhone SE)[90m (iphone)[39m
+    UDID                      = [35m9EE8423A-E7EA-4224-A114-DC6224FD19FB[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 7 iOS 11.4[39m (iPhone 7)[90m (iphone)[39m
+    UDID                      = [35m200CE36F-6B79-494F-A11E-9873BCD933DB[39m
+    Supports Watch Apps       = [35myes[39m
+  [36miPhone 7 Plus iOS 11.4[39m (iPhone 7 Plus)[90m (iphone)[39m
+    UDID                      = [35m2D826B82-062C-4B6B-9A6A-7D90FF8FC9DC[39m
+    Supports Watch Apps       = [35myes[39m
+
+[1mWatchOS Simulators[22m
+[90m4.2[39m
+  [36mApple Watch - 38mm watchOS 4.2[39m (Apple Watch - 38mm)[90m (watch)[39m
+    UDID                      = [35mC34B9955-5A65-4C2E-980C-75FA8FF7F7A9[39m
+  [36mApple Watch - 42mm watchOS 4.2[39m (Apple Watch - 42mm)[90m (watch)[39m
+    UDID                      = [35m8D4B43B8-87FF-46B7-8357-66680A0E4804[39m
+  [36mApple Watch Series 2 - 38mm watchOS 4.2[39m (Apple Watch Series 2 - 38mm)[90m (watch)[39m
+    UDID                      = [35m1BC8FE55-9599-4EEC-A893-34E183B8ECCE[39m
+  [36mApple Watch Series 2 - 42mm watchOS 4.2[39m (Apple Watch Series 2 - 42mm)[90m (watch)[39m
+    UDID                      = [35m274DA975-2E6F-44AD-A549-4AD26DE5BD92[39m
+  [36mApple Watch Series 3 - 38mm watchOS 4.2[39m (Apple Watch Series 3 - 38mm)[90m (watch)[39m
+    UDID                      = [35mE67F180D-5336-4A37-8E8E-24AC37B5E3E5[39m
+  [36mApple Watch Series 3 - 42mm watchOS 4.2[39m (Apple Watch Series 3 - 42mm)[90m (watch)[39m
+    UDID                      = [35mCBB91D3A-8F35-4B79-ACC6-5F86C7391F87[39m
+
+[90m4.3[39m
+  [36mApple Watch - 38mm watchOS 4.3[39m (Apple Watch - 38mm)[90m (watch)[39m
+    UDID                      = [35m05564C50-0CB0-4395-9977-BDEEF59D3F55[39m
+  [36mApple Watch - 42mm watchOS 4.3[39m (Apple Watch - 42mm)[90m (watch)[39m
+    UDID                      = [35m5696423C-5613-42AE-A66B-6D097B41243E[39m
+  [36mApple Watch Series 2 - 38mm watchOS 4.3[39m (Apple Watch Series 2 - 38mm)[90m (watch)[39m
+    UDID                      = [35m6CB999A9-2D65-409C-9055-AC741610EBFE[39m
+  [36mApple Watch Series 2 - 42mm watchOS 4.3[39m (Apple Watch Series 2 - 42mm)[90m (watch)[39m
+    UDID                      = [35mCDAD46DC-5F7C-448F-8DCD-F3008F90105F[39m
+  [36mApple Watch Series 3 - 38mm watchOS 4.3[39m (Apple Watch Series 3 - 38mm)[90m (watch)[39m
+    UDID                      = [35m4683B1C2-C735-4AA3-A22B-9BDA6933FE6F[39m
+  [36mApple Watch Series 3 - 42mm watchOS 4.3[39m (Apple Watch Series 3 - 42mm)[90m (watch)[39m
+    UDID                      = [35m9B64A1C2-550E-458C-9AD9-9AED49AB4306[39m
+
+[1mConnected iOS Devices[22m
+  [90mNone[39m
+
+[1mIssues[22m
+  No issues detected! Your development environment should be working perfectly!
+
